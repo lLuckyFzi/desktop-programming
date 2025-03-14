@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|d:\\programming\\collage\\semester 2\\visual studio\\01-if2b-lucky_fauzi-m2\\if2b-lucky_fauzi\\if2b-lucky_fauzi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1EEA8222-E008-4065-A45B-42CB3BE6B699}|IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi.vbproj|solutionrelative:if2b-lucky_fauzi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form4.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form4.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form4.vb",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form4.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-12T09:30:06.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form3.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form3.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form3.vb",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form3.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-12T09:17:49.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form2.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form2.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form2.vb",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form2.vb",
+              "ViewState": "AgIAACEAAAAAAAAAAAAjwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-12T08:57:58.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.vb",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form6.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form6.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form6.vb",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form6.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T11:46:40.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form6.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form6.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form6.vb [Design]",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T11:34:41.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form5.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form5.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form5.vb [Design]",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T11:04:01.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form4.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form4.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form4.vb [Design]",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T09:36:17.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\My Project\\Application.Designer.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-05T09:23:28.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form1.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form1.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form1.vb [Design]",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-05T09:07:07.423Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form5.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form5.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form5.vb",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form5.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T11:10:02.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form3.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form3.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form3.vb [Design]",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T08:59:12.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form2.vb",
+              "RelativeDocumentMoniker": "IF2B-Lucky_Fauzi\\Form2.vb",
+              "ToolTip": "D:\\Programming\\Collage\\Semester 2\\Visual Studio\\01-IF2B-Lucky_Fauzi-M2\\IF2B-Lucky_Fauzi\\IF2B-Lucky_Fauzi\\Form2.vb [Design]",
+              "RelativeToolTip": "IF2B-Lucky_Fauzi\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-05T09:20:18.827Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

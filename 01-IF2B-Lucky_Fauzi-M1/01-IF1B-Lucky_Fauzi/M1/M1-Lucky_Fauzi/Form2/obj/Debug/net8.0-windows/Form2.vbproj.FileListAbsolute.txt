@@ -1,0 +1,16 @@
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\bin\Debug\net8.0-windows\Form2.exe
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\bin\Debug\net8.0-windows\Form2.deps.json
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\bin\Debug\net8.0-windows\Form2.runtimeconfig.json
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\bin\Debug\net8.0-windows\Form2.dll
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\bin\Debug\net8.0-windows\Form2.pdb
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\Form2.Form1.resources
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\Form2.vbproj.GenerateResource.cache
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\Form2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\Form2.AssemblyInfoInputs.cache
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\Form2.AssemblyInfo.vb
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\Form2.vbproj.CoreCompileInputs.cache
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\Form2.dll
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\refint\Form2.dll
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\Form2.pdb
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\Form2.genruntimeconfig.cache
+D:\Programming\Collage\Visual Studio\01-IF1B-Lucky_Fauzi\M1\M1-Lucky_Fauzi\Form2\obj\Debug\net8.0-windows\ref\Form2.dll
