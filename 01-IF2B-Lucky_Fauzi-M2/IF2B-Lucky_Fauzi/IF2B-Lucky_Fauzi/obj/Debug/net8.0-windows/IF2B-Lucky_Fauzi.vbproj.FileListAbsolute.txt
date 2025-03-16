@@ -44,3 +44,30 @@ D:\Programming\Collage\Semester 2\Visual Studio\01-IF2B-Lucky_Fauzi-M2\IF2B-Luck
 D:\Programming\Collage\Semester 2\Visual Studio\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.pdb
 D:\Programming\Collage\Semester 2\Visual Studio\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.genruntimeconfig.cache
 D:\Programming\Collage\Semester 2\Visual Studio\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\ref\IF2B-Lucky_Fauzi.dll
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\bin\Debug\net8.0-windows\IF2B-Lucky_Fauzi.exe
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\bin\Debug\net8.0-windows\IF2B-Lucky_Fauzi.deps.json
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\bin\Debug\net8.0-windows\IF2B-Lucky_Fauzi.runtimeconfig.json
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\bin\Debug\net8.0-windows\IF2B-Lucky_Fauzi.dll
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\bin\Debug\net8.0-windows\IF2B-Lucky_Fauzi.pdb
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.Welcome.resources
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.Form2.resources
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.hitungNilai.resources
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.hitungLuas_KelilingSegitiga.resources
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.volumeTabung.resources
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.luas_keliling_jajargenjang.resources
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.programBelanja.resources
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.Form1.resources
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.Resources.resources
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.vbproj.GenerateResource.cache
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.AssemblyInfoInputs.cache
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.AssemblyInfo.vb
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.vbproj.CoreCompileInputs.cache
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.sourcelink.json
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.dll
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\refint\IF2B-Lucky_Fauzi.dll
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.pdb
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B-Lucky_Fauzi.genruntimeconfig.cache
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\ref\IF2B-Lucky_Fauzi.dll
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.OrderMakanan.resources
+D:\Programming\Save\Collage\Desktop Programming\desktop-programming\01-IF2B-Lucky_Fauzi-M2\IF2B-Lucky_Fauzi\IF2B-Lucky_Fauzi\obj\Debug\net8.0-windows\IF2B_Lucky_Fauzi.DataKepegawaian.resources
