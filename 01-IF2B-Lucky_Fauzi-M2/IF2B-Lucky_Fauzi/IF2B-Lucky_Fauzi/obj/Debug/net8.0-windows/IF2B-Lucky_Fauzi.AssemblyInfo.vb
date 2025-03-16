@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("IF2B-Lucky_Fauzi"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd6867d8034d5328f9b6cbe01b4cb50e990bebd5"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("IF2B-Lucky_Fauzi"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("IF2B-Lucky_Fauzi"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

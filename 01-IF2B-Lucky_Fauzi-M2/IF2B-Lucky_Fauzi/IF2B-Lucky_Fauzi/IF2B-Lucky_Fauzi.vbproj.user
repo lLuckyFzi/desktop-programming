@@ -19,6 +19,15 @@
     <Compile Update="Form6.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Form7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form9.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="My Project\Form1.vb">
       <SubType>Form</SubType>
     </Compile>
